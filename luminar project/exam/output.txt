@@ -1,0 +1,1 @@
+('trivandrum', '32')('kottayam', '25')('alapuzha', '26')('pathanamthitta', '19')('idukky', '19')('wayanad', '20')('ernamkulam', '30')('thrissur', '32')('palakkad', '39')('kozhikod', '32')('kannur', '31')('malapurram', '30')('kazaragod', '25')('kollam', '30')
